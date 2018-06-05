@@ -6,5 +6,5 @@
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Tour of Heroes test';
+  title = 'Tour of Heroes';
 }
